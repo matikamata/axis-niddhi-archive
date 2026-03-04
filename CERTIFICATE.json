@@ -1,0 +1,14 @@
+{
+  "engine": "3.0.2-S14-S15-C1-C3",
+  "build_id": "c8c1a7e6eca8c514",
+  "tree_sha256": "c8c1a7e6eca8c51447fca08dabd0d5bfca4616eefa623ad0e6af316f9be3d1b5",
+  "certified_at": "2026-03-02T08:57:10Z",
+  "posts": 748,
+  "pt_br": 0,
+  "glossary_terms": 987,
+  "audio_files": 481,
+  "audio_terms": 213,
+  "total_files": 1291,
+  "total_size_mb": 1157.38,
+  "verdict": "PASSED"
+}

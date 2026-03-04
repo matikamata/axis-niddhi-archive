@@ -1,0 +1,23 @@
+# --- Matikamata / Axis-Niddhi .gitignore ---
+
+# Logs e Temporários de Sistema
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# Arquivos de IDE e Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Metadados de Build (se houver)
+node_modules/
+.npm/
+
+# Ignorar o próprio arquivo de estrutura que geramos
+estrutura_arquivos.txt
+
+# Manter a integridade da Arca
+# Não ignorar pastas de assets, audio ou pages!

@@ -1,0 +1,3 @@
+# 💎 BRASILEIRINHO ENGINE — Script 13 AXIS-NIDDHI v3.0
+jinja2>=3.1.0
+beautifulsoup4>=4.12.0
